@@ -17,7 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.lotericoncorrutina.viewModels.LoteriaViewModel
 import com.example.lotericoncorrutina.views.Loteriaview
 import com.example.lotericoncorrutina.ui.theme.LoteriConCorrutinaTheme
-
+//miri
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
